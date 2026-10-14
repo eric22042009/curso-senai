@@ -1,0 +1,9 @@
+{
+    "nome": "frigideira",
+    "preco": 20,
+    "quantidade": 3,
+    "categorias": [
+        "cozinha",
+        "panelas"
+    ]
+}

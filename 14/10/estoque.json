@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome": "Mouse",
+        "preco": 65.9
+    },
+    {
+        "id": 2,
+        "nome": "Teclado",
+        "preco": 120
+    }
+]
